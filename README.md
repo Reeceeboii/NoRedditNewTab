@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./resources/NRNT Logo fullsize.png" width="250px"/>
+  <a href="https://addons.mozilla.org/en-GB/firefox/addon/noredditnewtab/" target="_blank" rel="rel=noopener noreferrer">
+    <img src="./resources/NRNT Logo fullsize.png" width="250px"/>
+  </a>
 </div>
 
 <div align="center">
