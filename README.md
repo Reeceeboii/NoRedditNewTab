@@ -1,13 +1,17 @@
-# NoRedditNewTab (NRNT) - prevent Reddit from opening notifications in new tabs
+<div align="center">
+  <img src="./resources/NRNT Logo fullsize.png" width="250px"/>
+</div>
+
+<div align="center">
+<h1>NoRedditNewTab (NRNT) - prevent Reddit from opening notifications in new tabs</h1>
+</div>
 
 Reddit has a really annoying behaviour on its web client that forces notifications to open in a new tab when they are clicked. There is absolutely no reason why this should be the case, but it has been for a while.
 
 This tiny browser extension simply listens for the notification popout to be mounted to the DOM and then strips out the `target` attribute from its child `<a>`'s that cause this behaviour.
 
-# Before/After
-| Stock Reddit | Reddit with NRNT |
-| -----------  | ---------------- |
-| Header       | Title            |
+## Install
+<img src="./resources/readme_images/get_addon.png" width="150px"/>
 
 ## A note
 
