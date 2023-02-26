@@ -15,8 +15,6 @@ This tiny browser extension simply listens for the notification popout to be mou
 
 ## A note
 
-While this has been published to [addons.mozilla.org](addons.mozilla.org), it has mostly been put there for my sanity; so that I don't need to sideload it. Because it's sort of a hack rather than something that is reliable and thoroughly tested, it has been marked as experimental.
+While this has been published to [addons.mozilla.org](addons.mozilla.org), it has mostly been put there for my sanity; so that I don't need to sideload it. It is not likely to function into the long term and I will not be around 24/7 to fix it if it breaks (and it **WILL** break if and when Reddit change the layout/IDs of the notifications section of their web client.)
 
 I have not published to the Chrome store, as I personally do not use Chrome ([and neither should you](https://www.browserlondon.com/blog/2019/02/11/chromium-eroding-open-web/))!
-
-It **WILL** break if Reddit change the layout/IDs of the notifications section of their web client.
