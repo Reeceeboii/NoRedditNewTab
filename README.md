@@ -18,7 +18,7 @@ This tiny browser extension simply listens for the notification popout to be mou
 </a>
 
 ### Sideload:
-1. Download the latest [release](https://addons.mozilla.org/firefox/downloads/file/4076056/noredditnewtab-1.0.xpi) from addons.mozailla.org (`noredditnewtab-1.0.xpi`).
+1. Download the latest [release](https://addons.mozilla.org/firefox/downloads/file/4076056/noredditnewtab-1.0.xpi) from addons.mozilla.org (`noredditnewtab-1.0.xpi`).
     
     1. Depending on your setup, this may directly trigger Firefox to offer the install. 
 2. Press `Ctrl + Shift + A` to open the themes and extensions menu.
