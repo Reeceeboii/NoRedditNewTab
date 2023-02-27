@@ -12,10 +12,16 @@ Reddit has a really annoying behaviour on its web client that forces notificatio
 
 This tiny browser extension simply listens for the notification popout to be mounted to the DOM and then strips out the `target` attribute from its child `<a>`'s that cause this behaviour.
 
-## Install
+## Install from addons.mozilla.org
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/noredditnewtab/" target="_blank" rel="rel=noopener noreferrer">
   <img src="./resources/readme_images/get_addon.png" width="150px"/>
 </a>
+
+### Sideload:
+1. Download the latest [release](https://addons.mozilla.org/firefox/downloads/file/4076056/noredditnewtab-1.0.xpi) from addons.mozailla.org (`noredditnewtab-1.0.xpi`).
+2. Press `Ctrl + Shift + A` to open the themes and extensions menu.
+3. To the right of 'Manage Your Extensions', press the cog icon, and select `Install Add-on From File...`
+4. Select the `.xpi` downloaded in the first step.
 
 ## A note
 
